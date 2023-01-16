@@ -1,0 +1,111 @@
+body{
+    background-color: whitesmoke;
+    height:150 vh;
+}
+.resume-box{
+    width: 800px;
+    height: 1000px;
+    margin: 0 auto;
+    background-color: white;
+}
+.outer-box{
+    padding:30px;
+
+}
+.box-1{
+    background-color:black;
+    width: 30%;
+    float: left;
+    height: 1000px;
+
+}
+.box-2{
+    width: 70%;
+    float:left;
+    padding: 20px;
+}
+.profile{
+    width: 100%;
+}
+h1{
+    color: whitesmoke;
+    font-family:system-ui; 
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-left:10px;
+
+}
+p{
+    color: whitesmoke;
+     font-family:system-ui; 
+    font-weight: 300;
+    font-size: 14px;
+    margin-left: 10px;
+}
+#progress1{
+    background-color:yellow;
+    border-radius: 9px;
+    height: 8px;
+    width:80%;
+    /* padding:3px; */
+}
+
+#progress2{
+    background-color: yellow;
+    border-radius: 9px;
+    height: 8px;
+    width:70%;
+    
+}
+#progress3{
+    background-color: yellow;
+    border-radius: 9px;
+    height: 8px;
+    width:90%;
+    
+}
+#progress4{
+    background-color: yellow;
+    border-radius: 9px;
+    height: 8px;
+    width:50%;
+    
+}
+.intro{text-align: center;}
+.intro h1{
+    font-size: 40px;
+    font-weight: bold;
+    color:black;
+}
+.hr{height:5px;
+    border:1px;
+    /* width: 540px; */
+     background-color: black;
+
+    }
+.intro-p{
+    color: black;
+    font-family: system-ui;
+    font-weight: 300;
+    font-size:15px;
+    margin-top:13%;
+}
+.intro p{
+    color: black;
+    font-family: system-ui;
+    font-weight: 300;
+    font-size:15px;
+    margin-top:-5px;
+
+}
+
+.head{
+    color:black;
+}
+
+.link{
+    color:white;
+    
+    
+}
+    
